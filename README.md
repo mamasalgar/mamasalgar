@@ -1,4 +1,14 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Mama Salgar</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<img align="right"alt="coding"width="400"src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif">
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/mama salgar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mama salgar" height="30" width="40" /></a>
+<a href="https://instagram.com/mama_salgar_08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mama_salgar_08" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/mama salgar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mama salgar" height="30" width="40" /></a>
+</p>## Hi there 👋
 
 <!--
 **mamasalgar/mamasalgar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
