@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mama Salgar</h1>
 <h3 align="center">A passionate Software Engineering from India</h3>
 
-<img align="right"alt="coding"width="400"src="![image](https://github.com/user-attachments/assets/6b1f6854-e5f9-49a4-b089-ca589de76163)
-">
+<img align="right"alt="coding"width="400"src="![image](https://github.com/user-attachments/assets/6b1f6854-e5f9-49a4-b089-ca589de76163)">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
